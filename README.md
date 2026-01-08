@@ -2,7 +2,6 @@
 
 <img src="./public/logo.png" alt="Tamarin logo" height="100" />
 
-# Tamarin
 
 [![Next.js](https://img.shields.io/badge/Next.js-16.1-black?style=flat-square&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -45,7 +44,7 @@ Tamarin is a feature-rich chat interface designed to work with local language mo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/apehost-tamarin-ui.git
+   git clone https://github.com/JungleM0nkey/apehost-tamarin-ui.git
    cd apehost-tamarin-ui
    ```
 
